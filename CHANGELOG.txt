@@ -1,0 +1,9 @@
+Changelog file for changes to the application
+
+# Changelog
+
+## [0.0.1] - 2026-05-29
+
+### Added
+
+Added a new changelog file and set the project up on vs code
