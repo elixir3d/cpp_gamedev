@@ -2,6 +2,14 @@ Changelog file for changes to the application
 
 # Changelog
 
+## [0.1.0] - 2026-05-31
+
+### Added
+
+- Added new cpp files for week01 including contains, basics, functions & adv_data_structures
+- Created a new folder for assignments named 'assignments'
+- Added assignment01.cpp to assignments folder and commpleted code for it
+
 ## [0.0.1] - 2026-05-29
 
 ### Added
