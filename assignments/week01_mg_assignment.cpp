@@ -23,17 +23,12 @@ int main()
 
     Node* root = createNode(10);
 
-    root = insertIntoTree(root, 9);
+    std::vector<int> values = {9, 19, 92, 4, 1, 17};
 
-    root = insertIntoTree(root, 19);
-
-    root = insertIntoTree(root, 92);
-
-    root = insertIntoTree(root, 4);
-
-    root = insertIntoTree(root, 1);
-
-    root = insertIntoTree(root, 17);
+    for (auto &val : values)
+    {
+        root = insertIntoTree(root, val);
+    }
 
     PrintTreeLeaves(root);
     

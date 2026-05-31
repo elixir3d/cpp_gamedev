@@ -2,7 +2,16 @@ Changelog file for changes to the application
 
 # Changelog
 
-## [0.1.0] - 2026-05-31
+## [1.0.0] - 2026-05-31
+
+### Added
+
+- Add new folder structure, seperating examples and basics from the store app section
+- Added updated cpp files for finished store app for week02
+- Added CMakeLists.txt, integrating CMake build system into the project
+
+
+## [0.1.0] - 2026-05-30
 
 ### Added
 
